@@ -1224,3 +1224,15 @@ Sunburst Design Inc.
 
 
 ---
+---
+
+# Author
+
+[**Yashwant Kushwah**](https://www.linkedin.com/in/yashwant-kushwah)
+
+M.Tech Electrical Engineering  
+Indian Institute of Technology Bombay
+
+GitHub: [yashwant2201](https://github.com/yashwant2201)
+
+---
