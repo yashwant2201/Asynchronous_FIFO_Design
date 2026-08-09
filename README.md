@@ -1228,7 +1228,7 @@ Sunburst Design Inc.
 
 # Author
 
-[**Yashwant Kushwah**](https://www.linkedin.com/in/yashwant-kushwah)
+[**Yashwant Kushwah**](https://www.linkedin.com/in/yashwant-kushwah-2a590124a/)
 
 M.Tech Electrical Engineering  
 Indian Institute of Technology Bombay
